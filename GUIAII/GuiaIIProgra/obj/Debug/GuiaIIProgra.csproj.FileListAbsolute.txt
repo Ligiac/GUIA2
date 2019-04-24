@@ -1,0 +1,18 @@
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\GuiaIIProgra\GuiaIIProgra\bin\Debug\GuiaIIProgra.exe.config
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\GuiaIIProgra\GuiaIIProgra\bin\Debug\GuiaIIProgra.exe
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\GuiaIIProgra\GuiaIIProgra\bin\Debug\GuiaIIProgra.pdb
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\GuiaIIProgra\GuiaIIProgra\obj\Debug\GuiaIIProgra.csprojResolveAssemblyReference.cache
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\GuiaIIProgra\GuiaIIProgra\obj\Debug\GuiaIIProgra.Form1.resources
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\GuiaIIProgra\GuiaIIProgra\obj\Debug\GuiaIIProgra.Form2.resources
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\GuiaIIProgra\GuiaIIProgra\obj\Debug\GuiaIIProgra.Properties.Resources.resources
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\GuiaIIProgra\GuiaIIProgra\obj\Debug\GuiaIIProgra.csproj.GenerateResource.Cache
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\GuiaIIProgra\GuiaIIProgra\obj\Debug\GuiaIIProgra.exe
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\GuiaIIProgra\GuiaIIProgra\obj\Debug\GuiaIIProgra.pdb
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\GuiaIIProgra\GuiaIIProgra\obj\Debug\GuiaIIProgra.Form3.resources
+c:\users\jesusvasquez\documents\visual studio 2012\Projects\GuiaIIProgra\GuiaIIProgra\obj\Debug\GuiaIIProgra.Form4.resources
+C:\Users\epineda\Documents\GitHub\Guia_2_Unidad_3\GuiaIIProgra\bin\Debug\GuiaIIProgra.exe.config
+C:\Users\epineda\Documents\GitHub\Guia_2_Unidad_3\GuiaIIProgra\obj\Debug\GuiaIIProgra.exe
+C:\Users\epineda\Documents\GitHub\Guia_2_Unidad_3\GuiaIIProgra\obj\Debug\GuiaIIProgra.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\GUIAII\GuiaIIProgra\bin\Debug\GuiaIIProgra.exe.config
+C:\Users\Ligia Sarai Colocho\Desktop\GUIAII\GuiaIIProgra\obj\Debug\GuiaIIProgra.exe
+C:\Users\Ligia Sarai Colocho\Desktop\GUIAII\GuiaIIProgra\obj\Debug\GuiaIIProgra.pdb
